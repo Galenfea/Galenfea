@@ -5,7 +5,7 @@
 ### Contact me:
 📫 galenfea@gmail.com
 
-telegram @Galenfea
+t.me/@Galenfea
 
 <!--
 **Galenfea/Galenfea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
