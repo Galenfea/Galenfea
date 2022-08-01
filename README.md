@@ -3,7 +3,7 @@
 
 ### Languages and Tools: Python / Java / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Nginx / Gunicorn / Unittest
 ### Contact me:
-📫 galenfea@gmail.com
+📫 galenfea@gmail.com \n
 telegram @Galenfea
 
 <!--
