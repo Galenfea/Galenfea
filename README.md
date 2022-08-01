@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! 👋 I'm Alexander. Python-developer.
+####Yandex.Practicum and Coursera graduate
+
+####Languages and Tools: Python / Java / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Nginx / Gunicorn / Unittest
+Contact me:
+
 
 <!--
 **Galenfea/Galenfea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  👋
 -->
