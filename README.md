@@ -1,7 +1,7 @@
-### Hi! 👋 I'm Alexander. Python-developer.
-####Yandex.Practicum and Coursera graduate
+# Hi! 👋 I'm Alexander. Python-developer.
+### Yandex.Practicum and Coursera graduate
 
-####Languages and Tools: Python / Java / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Nginx / Gunicorn / Unittest
+### Languages and Tools: Python / Java / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Nginx / Gunicorn / Unittest
 Contact me:
 
 
