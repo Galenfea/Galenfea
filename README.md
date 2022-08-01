@@ -2,8 +2,9 @@
 ### Yandex.Practicum and Coursera graduate
 
 ### Languages and Tools: Python / Java / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Nginx / Gunicorn / Unittest
-Contact me:
-
+### Contact me:
+📫 galenfea@gmail.com
+telegram @Galenfea
 
 <!--
 **Galenfea/Galenfea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
