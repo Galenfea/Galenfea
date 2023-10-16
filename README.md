@@ -5,5 +5,5 @@
 - 👨‍💻 Passionate about solving problems and learning new technologies  
 ### Languages and Tools: Python / Java / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Nginx / Gunicorn / Unittest
 ### Contact me:
-[<img src='https://cdn-icons-png.flaticon.com/512/54/54215.png' alt='e-mail' height='40'>](mailto:galenfea@gmail.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](http://t.me/Galenfea)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='e-mail' height='40'>](mailto:galenfea@gmail.com)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg' alt='telegram' height='40'>](http://t.me/Galenfea)
